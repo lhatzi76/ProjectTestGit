@@ -1,0 +1,2 @@
+The process cannot access the file 'C:\hiberfil.sys' because it is being used by another process.
+The process cannot access the file 'C:\pagefile.sys' because it is being used by another process.
