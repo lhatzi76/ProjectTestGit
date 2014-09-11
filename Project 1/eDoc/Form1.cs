@@ -14,6 +14,7 @@ namespace eDoc
         public Form1()
         {
             InitializeComponent();
+            Console.WriteLine("Hello!");
         }
     }
 }
